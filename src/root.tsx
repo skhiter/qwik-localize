@@ -7,6 +7,7 @@ import {
 import { RouterHead } from "./components/router-head/router-head";
 
 import "./global.css";
+import { useI18n } from "./i18n";
 
 export default component$(() => {
   /**
@@ -16,6 +17,7 @@ export default component$(() => {
    * Don't remove the `<head>` and `<body>` elements.
    */
 
+  useI18n()
   return (
     <QwikCityProvider>
       <head>
