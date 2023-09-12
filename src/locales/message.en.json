@@ -1,0 +1,8 @@
+{
+  "locale": "en",
+  "translations": {
+    "1573294495032945047": "Hello from {$PH}!",
+    "8569626659814641312": "Utilisez les liens suivants pour modifier la traduction.",
+    "6563882999249543998": "La traduction est effectuée dans le cadre de l'étape de construction, de sorte que les chaînes traduites sont intégrées dans l'application, sans qu'il soit nécessaire de les charger ou de les consulter au moment de l'exécution. Toutefois, ces avantages signifient que l'utilisateur ne peut pas changer de langue sans rafraîchir la page."
+  }
+}
